@@ -1,0 +1,29 @@
+# Next.js
+node_modules/
+.next/
+out/
+*.log
+.env
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Local runtime state (never commit)
+.run/
+data-live/
+watcher/state.json
+watcher/watchlist-state.json
+watcher/smart-money-buys.json
+watcher/whale-buys.json
+watcher/seen.json
+watcher/live-candidates.json
+watcher/alerts.log
+watcher/.stream_gates.*
+ingestor/*.log
+
+# OS
+.DS_Store

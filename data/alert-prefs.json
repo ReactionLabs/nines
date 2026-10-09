@@ -1,0 +1,14 @@
+{
+  "categories": {
+    "nines": true,
+    "watchlist": true,
+    "smartmoney": false
+  },
+  "wallets": {
+    "frank": {
+      "label": "frank",
+      "enabled": false
+    }
+  },
+  "quiet_hours": {}
+}

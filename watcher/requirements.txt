@@ -1,0 +1,8 @@
+# Nines watcher: no third-party dependencies.
+# scanner.py, smart_money_watch.py, check_alerts.py, publish.py,
+# checks.py, config.py use only the Python standard library plus the
+# local shims in this directory (helius_rpc.py, dynamic_credentials.py).
+#
+# Required environment variables:
+#   HELIUS_API_KEY   Helius API key (scanner, smart money watch)
+#   GITHUB_TOKEN     GitHub personal access token (publish.py only, optional)

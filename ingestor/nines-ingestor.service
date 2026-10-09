@@ -1,0 +1,18 @@
+[Unit]
+Description=Nines stream ingestor (Helius WS -> local app)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Adjust paths to where you cloned the repo:
+WorkingDirectory=/opt/nines
+EnvironmentFile=/opt/nines/.env
+ExecStart=/opt/nines/ingestor/venv/bin/python /opt/nines/ingestor/ingestor.py
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

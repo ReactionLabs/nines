@@ -1,0 +1,1305 @@
+{
+  "updated_at": 1791587349,
+  "buys": [
+    {
+      "wallet": "4FpuSLX6TLffEk9U9jQ9pwbwd4Aw2NCRBFZYQdf4X4Uk",
+      "wallet_short": "4Fpu\u2026X4Uk",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "H374JAkEa8triuv1YeBfzCuhssRzpAMQquba1zzYpump",
+      "symbol": "?",
+      "amount": 994717.21237,
+      "gate_score": "?/9",
+      "time": 1791587345,
+      "signature": "3tMKRJY1LejbZTBFYYGAV27APqTh1sYkhA4XYyHh4vRF7VeeGtJV8VMkgdXc9M22DxDy2kRtd864Dse7SRj3SiH"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 99.05,
+      "gate_score": "?/9",
+      "time": 1791587344,
+      "signature": "2WgS6DtKhikKmonCHtjrB1ybaTf5crd7WcZ9UZKs2kt4StkPFMfaxEpqQBUapqAGvUA1mYmRePBqfEBHEwvPG6iz"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "CbKdcERT731h5B3tdgNdVKus5ZyRxhAUPauBzfzTpump",
+      "symbol": "?",
+      "amount": 1945945.914002,
+      "gate_score": "?/9",
+      "time": 1791587344,
+      "signature": "2WgS6DtKhikKmonCHtjrB1ybaTf5crd7WcZ9UZKs2kt4StkPFMfaxEpqQBUapqAGvUA1mYmRePBqfEBHEwvPG6iz"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 97.350434,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "2po5fQu2K2QVr7kCt3sHb9psKpDeuYga43hsMzg8UyR8hfdtzPQCEFDSNH9FTcY6923SPhfKvJCaH3pXX1Z3cQFG"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "4mbPZzDCWXvTCJbscMWeDD7TT1pra9mkZHGaBxc2jupx",
+      "symbol": "?",
+      "amount": 67254.806179,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "2po5fQu2K2QVr7kCt3sHb9psKpDeuYga43hsMzg8UyR8hfdtzPQCEFDSNH9FTcY6923SPhfKvJCaH3pXX1Z3cQFG"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "4mbPZzDCWXvTCJbscMWeDD7TT1pra9mkZHGaBxc2jupx",
+      "symbol": "?",
+      "amount": 117243.772674,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "2po5fQu2K2QVr7kCt3sHb9psKpDeuYga43hsMzg8UyR8hfdtzPQCEFDSNH9FTcY6923SPhfKvJCaH3pXX1Z3cQFG"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "4mbPZzDCWXvTCJbscMWeDD7TT1pra9mkZHGaBxc2jupx",
+      "symbol": "?",
+      "amount": 1187.883916,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "2po5fQu2K2QVr7kCt3sHb9psKpDeuYga43hsMzg8UyR8hfdtzPQCEFDSNH9FTcY6923SPhfKvJCaH3pXX1Z3cQFG"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+      "symbol": "?",
+      "amount": 62.34293,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "2po5fQu2K2QVr7kCt3sHb9psKpDeuYga43hsMzg8UyR8hfdtzPQCEFDSNH9FTcY6923SPhfKvJCaH3pXX1Z3cQFG"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 1.424154,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3XuYTFx81gA6qxtfbD4cAeGgWg1kHM9BmjNFWCJrzN5QqAP2irR9H4PPkKRPMnx9fnW4zaV4jshKCpmgXXbiHHge"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+      "symbol": "?",
+      "amount": 136.855991,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3XuYTFx81gA6qxtfbD4cAeGgWg1kHM9BmjNFWCJrzN5QqAP2irR9H4PPkKRPMnx9fnW4zaV4jshKCpmgXXbiHHge"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+      "symbol": "?",
+      "amount": 389.963324,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3XuYTFx81gA6qxtfbD4cAeGgWg1kHM9BmjNFWCJrzN5QqAP2irR9H4PPkKRPMnx9fnW4zaV4jshKCpmgXXbiHHge"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 937.156271,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3X7bbPMjg2qoLwiyKgmxg395knJaJfFRr6vRDFp76NG6W7yprfLmDj8xKacs6isMDe4qyfnMwKoZhyakqC3uie69"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 72.093736,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3X7bbPMjg2qoLwiyKgmxg395knJaJfFRr6vRDFp76NG6W7yprfLmDj8xKacs6isMDe4qyfnMwKoZhyakqC3uie69"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 20.595653,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3X7bbPMjg2qoLwiyKgmxg395knJaJfFRr6vRDFp76NG6W7yprfLmDj8xKacs6isMDe4qyfnMwKoZhyakqC3uie69"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
+      "symbol": "?",
+      "amount": 6.32654422,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3X7bbPMjg2qoLwiyKgmxg395knJaJfFRr6vRDFp76NG6W7yprfLmDj8xKacs6isMDe4qyfnMwKoZhyakqC3uie69"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+      "symbol": "?",
+      "amount": 0.12648,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "3X7bbPMjg2qoLwiyKgmxg395knJaJfFRr6vRDFp76NG6W7yprfLmDj8xKacs6isMDe4qyfnMwKoZhyakqC3uie69"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 132.097313,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "FMwwXB3CPmQcDdFLVsVvBvrqDRdBqfBB8PyQpuUHQj9AJMnaFDFPWt4WX1oKrLEmQUJuHDy3hgmM5PDfiR3P9En"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "CbKdcERT731h5B3tdgNdVKus5ZyRxhAUPauBzfzTpump",
+      "symbol": "?",
+      "amount": 2676507.753182,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "FMwwXB3CPmQcDdFLVsVvBvrqDRdBqfBB8PyQpuUHQj9AJMnaFDFPWt4WX1oKrLEmQUJuHDy3hgmM5PDfiR3P9En"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "CJRfqQNBXfmDA176uGb2J8ErxswBgqKFJnzZZTATpump",
+      "symbol": "?",
+      "amount": 300478.590171,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "5FASg4RHGkKHiGnbRsdeQakXqBaQiLcNpikwxzytLJ7R5rZVSrmDytSC8XYD1tAsGVwgUfiaonfNSB4KrGiegJZZ"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "4mbPZzDCWXvTCJbscMWeDD7TT1pra9mkZHGaBxc2jupx",
+      "symbol": "?",
+      "amount": 388272.931616,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "4k3ym69suYwDeBnmQ7RyGwTRUzs27DCRWtp6yAqpHA7s8GM4mZg6WrawAs8aQkL2xh9fqCdcTHuwumTonFnQgDHN"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 191.105239,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "4k3ym69suYwDeBnmQ7RyGwTRUzs27DCRWtp6yAqpHA7s8GM4mZg6WrawAs8aQkL2xh9fqCdcTHuwumTonFnQgDHN"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
+      "symbol": "?",
+      "amount": 115276.404871,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "4k3ym69suYwDeBnmQ7RyGwTRUzs27DCRWtp6yAqpHA7s8GM4mZg6WrawAs8aQkL2xh9fqCdcTHuwumTonFnQgDHN"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
+      "symbol": "?",
+      "amount": 81157.077144,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "4k3ym69suYwDeBnmQ7RyGwTRUzs27DCRWtp6yAqpHA7s8GM4mZg6WrawAs8aQkL2xh9fqCdcTHuwumTonFnQgDHN"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump",
+      "symbol": "?",
+      "amount": 6080.187167,
+      "gate_score": "?/9",
+      "time": 1791587343,
+      "signature": "4k3ym69suYwDeBnmQ7RyGwTRUzs27DCRWtp6yAqpHA7s8GM4mZg6WrawAs8aQkL2xh9fqCdcTHuwumTonFnQgDHN"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz",
+      "symbol": "?",
+      "amount": 309.468492827,
+      "gate_score": "?/9",
+      "time": 1791587342,
+      "signature": "5agYGZ28KEVCAxj1SATrJofMsNytnS9QJmAKvHxYEfmGumepiM5erkPd6GixNKkudSXVX1Lcqjy3SpuN323uYDSM"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 22.119226,
+      "gate_score": "?/9",
+      "time": 1791587342,
+      "signature": "5agYGZ28KEVCAxj1SATrJofMsNytnS9QJmAKvHxYEfmGumepiM5erkPd6GixNKkudSXVX1Lcqjy3SpuN323uYDSM"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 2.000202,
+      "gate_score": "?/9",
+      "time": 1791587342,
+      "signature": "4TvEg9Zx1C7Fk1oqFRb9Mobub77JkbEcd995DJ9Q1iBFMbSvVFRWXKZ4SXCPdcNAk9vrKfGqM2r9jEHYp5E3Ds2e"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 7.177903,
+      "gate_score": "?/9",
+      "time": 1791587342,
+      "signature": "jyopJtqm3jdmCNjyggXQM1UHqCzTdM9NTCqM7wm6mFQYcshrphtUM8ybjzUkikfdYZXvcs963nU4CGpUHD2ePzt"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH",
+      "symbol": "?",
+      "amount": 7.179713,
+      "gate_score": "?/9",
+      "time": 1791587342,
+      "signature": "jyopJtqm3jdmCNjyggXQM1UHqCzTdM9NTCqM7wm6mFQYcshrphtUM8ybjzUkikfdYZXvcs963nU4CGpUHD2ePzt"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+      "symbol": "?",
+      "amount": 0.00097409,
+      "gate_score": "?/9",
+      "time": 1791587341,
+      "signature": "36UwkEj7W6Bfn4hVjniTcwcq2yRFg2Eawd8tJ66GRXgz5ftfuYDiPTbckLBnT8R3Ls6E4rtGJwWtVSvHyRkuVNt3"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "symbol": "?",
+      "amount": 1.143e-05,
+      "gate_score": "?/9",
+      "time": 1791587341,
+      "signature": "36UwkEj7W6Bfn4hVjniTcwcq2yRFg2Eawd8tJ66GRXgz5ftfuYDiPTbckLBnT8R3Ls6E4rtGJwWtVSvHyRkuVNt3"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 0.94363,
+      "gate_score": "?/9",
+      "time": 1791587341,
+      "signature": "36UwkEj7W6Bfn4hVjniTcwcq2yRFg2Eawd8tJ66GRXgz5ftfuYDiPTbckLBnT8R3Ls6E4rtGJwWtVSvHyRkuVNt3"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "QNTMGXup5rFm8DRwect6zEUUfSWDscAcUdVb8V8Do1d",
+      "symbol": "?",
+      "amount": 875322.655599,
+      "gate_score": "?/9",
+      "time": 1791587341,
+      "signature": "4tumcvumcbQzkJLUTt77qbjwy2oP8y8eUDoGbe3atWKCAcL9nNocdtc4sa8aaYMeReuGuH8b17cM5jtwVa1WNgvu"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 5.427188,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "5BmdbVGeC2GtkA9eZZMGTXZEMXGMBDKg8GkKCXDUye3rxLaYbvMqeSThg2r3uZDtyhSubF8Z4uak4sSetNbpKvyh"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "4mbPZzDCWXvTCJbscMWeDD7TT1pra9mkZHGaBxc2jupx",
+      "symbol": "?",
+      "amount": 10327.894232,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "5BmdbVGeC2GtkA9eZZMGTXZEMXGMBDKg8GkKCXDUye3rxLaYbvMqeSThg2r3uZDtyhSubF8Z4uak4sSetNbpKvyh"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 2.079564,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "26iEHh7pmrT5fZ4eaDduDsVEvbH6nUT8gE5v7Dj18pjcdryEA1ML9zwNDPfN4CqmNqJpLodUpWX2kuaLtE8AZSDT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EMis1EwP7MjArCqV5mnhuKP5sjFw9e2MNv4tzowEPHH5",
+      "symbol": "?",
+      "amount": 674423.955705,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "26iEHh7pmrT5fZ4eaDduDsVEvbH6nUT8gE5v7Dj18pjcdryEA1ML9zwNDPfN4CqmNqJpLodUpWX2kuaLtE8AZSDT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HoNA5xEiNAdC1pxP1u3KtQ93yDyXmZFhaS6tYycmpump",
+      "symbol": "?",
+      "amount": 83887.966902,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "26iEHh7pmrT5fZ4eaDduDsVEvbH6nUT8gE5v7Dj18pjcdryEA1ML9zwNDPfN4CqmNqJpLodUpWX2kuaLtE8AZSDT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "CortexFv3fRcLKTgACr7aLqckGh5eP7TP3z9JHoKqMc6",
+      "symbol": "?",
+      "amount": 5894.9,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "pYVSWjJWExgmuCABUwJNaeGmEm1vHBgb8a2SJKRnGARzPs9kNoRC4Fgc4FzYCFyELfyGftYSmQpdCY34igdeKZT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 196.481618,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "pYVSWjJWExgmuCABUwJNaeGmEm1vHBgb8a2SJKRnGARzPs9kNoRC4Fgc4FzYCFyELfyGftYSmQpdCY34igdeKZT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 4.010199,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "pYVSWjJWExgmuCABUwJNaeGmEm1vHBgb8a2SJKRnGARzPs9kNoRC4Fgc4FzYCFyELfyGftYSmQpdCY34igdeKZT"
+    },
+    {
+      "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "wallet_short": "ARu4\u20265SZn",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "?",
+      "amount": 200.645711,
+      "gate_score": "?/9",
+      "time": 1791587340,
+      "signature": "pYVSWjJWExgmuCABUwJNaeGmEm1vHBgb8a2SJKRnGARzPs9kNoRC4Fgc4FzYCFyELfyGftYSmQpdCY34igdeKZT"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 134.156249,
+      "gate_score": "?/9",
+      "time": 1791587339,
+      "signature": "2BQ47SNAjF8nW3XXkJqLiciG2RCxzAcYJpaHecDPDWy3mWZvLohus4CtVL6WiAwKu9jQLXw6PcqU2Z3WckVFThMh"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "symbol": "?",
+      "amount": 6828839.09265,
+      "gate_score": "?/9",
+      "time": 1791587338,
+      "signature": "2ZgH1mEJRKCTdsFXCc7zPt5z3h2J1pVJPe4pkG9o8EvgNNGFqq9Xe4xqAYYicegtZCeYFEB2R8N7T2aSr2y8Y7Aa"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 23.008438,
+      "gate_score": "?/9",
+      "time": 1791587338,
+      "signature": "2ZgH1mEJRKCTdsFXCc7zPt5z3h2J1pVJPe4pkG9o8EvgNNGFqq9Xe4xqAYYicegtZCeYFEB2R8N7T2aSr2y8Y7Aa"
+    },
+    {
+      "wallet": "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV",
+      "wallet_short": "62qc\u2026fNgV",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "t7QAp8YeJaygFejHXpdu9epyws3Wx8L9fKZPYSKyjnN",
+      "symbol": "?",
+      "amount": 716.43301,
+      "gate_score": "?/9",
+      "time": 1791587332,
+      "signature": "5K4Hn7QFksJW85UPfqx3E9pEzfomWFadXuCeMimZCs8JYbtGf6BHCsvpyQbm8rsGzrMiwD2rXUvY3UiRDovVbL8T"
+    },
+    {
+      "wallet": "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV",
+      "wallet_short": "62qc\u2026fNgV",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "7Hat25RBbhmqGPfDyAEfQQMaZicNHXQMYp5C8J2NFSqE",
+      "symbol": "?",
+      "amount": 0.03364,
+      "gate_score": "?/9",
+      "time": 1791587332,
+      "signature": "57VvomLj5TLtm9iVhp32xmu6xZpYADF9ekknEjmdpNDVnTt6iyBSNNc7FA7vEUrNiMfNpvTWXXPh7FU74EY3Tz48"
+    },
+    {
+      "wallet": "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV",
+      "wallet_short": "62qc\u2026fNgV",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "symbol": "?",
+      "amount": 0.493364,
+      "gate_score": "?/9",
+      "time": 1791587332,
+      "signature": "322HVgbhm1mVg1MkdP4CEq2KuDPHBL9vmmrK1r9LpLbbCgv5dqQmLECbGaBeLcg7U575Jb8b1YAX7yaZM8f9BPZT"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 49.999969,
+      "gate_score": "?/9",
+      "time": 1791587331,
+      "signature": "2Ao4Uua2E3na7z1jLqgson7EuXQDGFdwoYsz7kFQDTt8j9Yehvj8S86bPRXt9vuhmD1KZ1JEf2BVwekz4xyPAosv"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump",
+      "symbol": "?",
+      "amount": 9239.041707,
+      "gate_score": "?/9",
+      "time": 1791587331,
+      "signature": "2Ao4Uua2E3na7z1jLqgson7EuXQDGFdwoYsz7kFQDTt8j9Yehvj8S86bPRXt9vuhmD1KZ1JEf2BVwekz4xyPAosv"
+    },
+    {
+      "wallet": "4FpuSLX6TLffEk9U9jQ9pwbwd4Aw2NCRBFZYQdf4X4Uk",
+      "wallet_short": "4Fpu\u2026X4Uk",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "8hbxJVhsDXsQwVm5u5UwvVseHZiUsQLwYqd6R2YTpump",
+      "symbol": "?",
+      "amount": 871996.067172,
+      "gate_score": "?/9",
+      "time": 1791587331,
+      "signature": "5QmukkDYjZGLoWmAsFCC1re5pwLhABYg5wTeWTb2QDa4yG9XXg5KTYJkroNEV3rEQadT88RoJVb6FPPWJgZvgyoR"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 0.1087,
+      "gate_score": "?/9",
+      "time": 1791587330,
+      "signature": "3Tp9NiPjy91CVxd8kpiRBHXjRS51E4uNHi5Pwo1U4KMj9B77SNA94QNMnnZHQqhndA1hKxLdcC23GKz4oZXY5v2C"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "symbol": "?",
+      "amount": 1.143811,
+      "gate_score": "?/9",
+      "time": 1791587330,
+      "signature": "3Tp9NiPjy91CVxd8kpiRBHXjRS51E4uNHi5Pwo1U4KMj9B77SNA94QNMnnZHQqhndA1hKxLdcC23GKz4oZXY5v2C"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "5Y8NV33Vv7WbnLfq3zBcKSdYPrk7g2KoiQoe7M2tcxp5",
+      "symbol": "?",
+      "amount": 0.094406461,
+      "gate_score": "?/9",
+      "time": 1791587330,
+      "signature": "3Tp9NiPjy91CVxd8kpiRBHXjRS51E4uNHi5Pwo1U4KMj9B77SNA94QNMnnZHQqhndA1hKxLdcC23GKz4oZXY5v2C"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "symbol": "?",
+      "amount": 5.213725,
+      "gate_score": "?/9",
+      "time": 1791587330,
+      "signature": "3Tp9NiPjy91CVxd8kpiRBHXjRS51E4uNHi5Pwo1U4KMj9B77SNA94QNMnnZHQqhndA1hKxLdcC23GKz4oZXY5v2C"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587330,
+      "signature": "4toN4oqJPecGLKY9MFQWUChsLrNEpCftp4Vn6BRdZ51g3EjfynvAFVKHx157kvPLyg9moFwRCkogmwroUSUfwCzf"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "symbol": "?",
+      "amount": 0.01183932,
+      "gate_score": "?/9",
+      "time": 1791587329,
+      "signature": "471ND7niajJxMeCayvLD1UXmVKigRQAmaNN5BwWtB8xA6UdB2vXpSxCB9UyjTn9FWFtsCgUYXmeGmwpQ2wJmRrP"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "SATqS9DYpLQsM2z51P4QCoqJRHa5wboV4qjJerJRUSH",
+      "symbol": "?",
+      "amount": 0.017024149,
+      "gate_score": "?/9",
+      "time": 1791587329,
+      "signature": "5MWMGAApeJq9HaEjwynHmauLH9AbAptyMcvw8HET9ibGmQLXQAtFRdi7K2VVSVJuQaJaVR1WP7Hk28uNKcv7N8Lu"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 1.496248,
+      "gate_score": "?/9",
+      "time": 1791587329,
+      "signature": "5MWMGAApeJq9HaEjwynHmauLH9AbAptyMcvw8HET9ibGmQLXQAtFRdi7K2VVSVJuQaJaVR1WP7Hk28uNKcv7N8Lu"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587328,
+      "signature": "5CNvemJwo8Z928aPdCxzA6aWZXNTPkj5cMz3GB9sPvVUBgiRQNTNYP3CCVhjHaspesgge6fnpHdH92FrxzEsRxMB"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "3SEtr1TwVigg5BGYoZZtRtLcf2ozkV2dUfYNGk9epump",
+      "symbol": "?",
+      "amount": 13104.687654,
+      "gate_score": "?/9",
+      "time": 1791587326,
+      "signature": "3rjhaTY5bcbduFaN8HiNqVw7QZ9N24LmjEYqYXabhkZYXLRdnJxbJEKAMdLhk6CCg7spuyMVd8snwPpp5frr7QCg"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "symbol": "?",
+      "amount": 624.199721,
+      "gate_score": "?/9",
+      "time": 1791587326,
+      "signature": "25J7Fb5z3V5xVLzguEfnjjCGSa8xt3UEHp7PPEnrX1VTTFnTR45JE9BzkMqWbwj7p9BuqdW15vdiNKrwd157VgdW"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "72ghv9CEhahxx2eZU2wQnquQPJETquSiEG6S4fwZpump",
+      "symbol": "?",
+      "amount": 15844.544538,
+      "gate_score": "?/9",
+      "time": 1791587326,
+      "signature": "25J7Fb5z3V5xVLzguEfnjjCGSa8xt3UEHp7PPEnrX1VTTFnTR45JE9BzkMqWbwj7p9BuqdW15vdiNKrwd157VgdW"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587326,
+      "signature": "WRoeFeAz2ELVxUJFxYBkitDNVBF8A6aBQTDUCzfCYDu7VovgERAQyYfuQ4iMH6H9U3hyD4J1btA6yupW4bgQ92i"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "DvdmEnztCmXwBnAbedD48XVGZJSxq31zNvnyftXdpump",
+      "symbol": "?",
+      "amount": 2137.992522,
+      "gate_score": "?/9",
+      "time": 1791587325,
+      "signature": "3DMsCoNHZrAHX4k9RME5W3a6e3pG4bSBTtEmBruoNgfeV49TFNBHvx4BJNfQSYt9MbBngofjCkJtgU9CuBi5fRBR"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+      "symbol": "?",
+      "amount": 879.725234,
+      "gate_score": "?/9",
+      "time": 1791587325,
+      "signature": "3DMsCoNHZrAHX4k9RME5W3a6e3pG4bSBTtEmBruoNgfeV49TFNBHvx4BJNfQSYt9MbBngofjCkJtgU9CuBi5fRBR"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "symbol": "?",
+      "amount": 596.430298,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "2UbL8NKDqdb5SbW85sTUDqXmoCjZCjvsqstDty6AnxfGp5V2T9c18R5jKkYpRV1CqiF2pVhdFh5VJyX5wDLaQurH"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+      "symbol": "?",
+      "amount": 14192.200001,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "2UbL8NKDqdb5SbW85sTUDqXmoCjZCjvsqstDty6AnxfGp5V2T9c18R5jKkYpRV1CqiF2pVhdFh5VJyX5wDLaQurH"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 10.257414,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "2UbL8NKDqdb5SbW85sTUDqXmoCjZCjvsqstDty6AnxfGp5V2T9c18R5jKkYpRV1CqiF2pVhdFh5VJyX5wDLaQurH"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "symbol": "?",
+      "amount": 271.857317,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "2UbL8NKDqdb5SbW85sTUDqXmoCjZCjvsqstDty6AnxfGp5V2T9c18R5jKkYpRV1CqiF2pVhdFh5VJyX5wDLaQurH"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HbPDWSqu8hpVMX6gMjwMDGe5rVgicWo3Qh3Jaojypump",
+      "symbol": "?",
+      "amount": 18404.946093,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "4s2n2BgSAQoTKGE9Cv4sfU9buqMyBbDEz494BhmcMaaGBmPmcYFw9GB3TrsUjrjboLr3tgXrE9tTLJixs5sgPwFc"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+      "symbol": "?",
+      "amount": 5190.679022,
+      "gate_score": "?/9",
+      "time": 1791587324,
+      "signature": "4s2n2BgSAQoTKGE9Cv4sfU9buqMyBbDEz494BhmcMaaGBmPmcYFw9GB3TrsUjrjboLr3tgXrE9tTLJixs5sgPwFc"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587323,
+      "signature": "43SFyF5iaiq32kHPPprjRKHrX8Sjzv9o1agL9CsRpXXcDRASMEgaQwQ61zMszru28uGmHNyZ4QavszfWyqfgBiC7"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+      "symbol": "?",
+      "amount": 1.701e-05,
+      "gate_score": "?/9",
+      "time": 1791587323,
+      "signature": "4xmxuzp5kTZhMNA8Xs5roAHvFu9i5tN3b6Afdfj77KaAG431hvQP4RoLSUMkfDTBXX5brZBME7zoBui9nmNEtrMt"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 0.020608,
+      "gate_score": "?/9",
+      "time": 1791587323,
+      "signature": "4xmxuzp5kTZhMNA8Xs5roAHvFu9i5tN3b6Afdfj77KaAG431hvQP4RoLSUMkfDTBXX5brZBME7zoBui9nmNEtrMt"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587321,
+      "signature": "46euYWHBK8SRqHYvVQb2EHv5P9qY3Gu6QhCqq9J4HqKygm7x6wsP1aejPmWPkbPzQe2dTAkbMKkC5RmBFGmpX3Sy"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 2.181749,
+      "gate_score": "?/9",
+      "time": 1791587320,
+      "signature": "52r1cfF9teG87ZpbugkbF6QU6JwHTqFPrMvEwRNQAjrtdMU9nJqsZTgLFLuuHddg8MCxzNh7vt1Y3iBdLFoZwvBV"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "symbol": "?",
+      "amount": 5.829703,
+      "gate_score": "?/9",
+      "time": 1791587320,
+      "signature": "52r1cfF9teG87ZpbugkbF6QU6JwHTqFPrMvEwRNQAjrtdMU9nJqsZTgLFLuuHddg8MCxzNh7vt1Y3iBdLFoZwvBV"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+      "symbol": "?",
+      "amount": 3.4934e-05,
+      "gate_score": "?/9",
+      "time": 1791587319,
+      "signature": "4sWHL94eXAH2SNXcvme5vZbgNj3LkJxwggiCPsFaJQoWRBCrZJoDZH31tn6yUzBfncfCoXw5ybBamZB91nHQJKUE"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 0.713648,
+      "gate_score": "?/9",
+      "time": 1791587318,
+      "signature": "fCWkKgjzY3wErPC5hfcK1GAtVMjg1M669sipboebee6YufNfzNBB5b6K5UXq81Gbu1qVPim8p3dh2rvtSdB6atm"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD",
+      "symbol": "?",
+      "amount": 0.713903,
+      "gate_score": "?/9",
+      "time": 1791587318,
+      "signature": "fCWkKgjzY3wErPC5hfcK1GAtVMjg1M669sipboebee6YufNfzNBB5b6K5UXq81Gbu1qVPim8p3dh2rvtSdB6atm"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "?",
+      "amount": 0.714187,
+      "gate_score": "?/9",
+      "time": 1791587318,
+      "signature": "fCWkKgjzY3wErPC5hfcK1GAtVMjg1M669sipboebee6YufNfzNBB5b6K5UXq81Gbu1qVPim8p3dh2rvtSdB6atm"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "symbol": "?",
+      "amount": 0.00075594,
+      "gate_score": "?/9",
+      "time": 1791587317,
+      "signature": "3N5uSZjPsHC2c6Y6zSbtYjhdrEqhR6iUtxnDp1WoytXhz6qqdJu6TqS4DZ3KRrWshuioV3TQWwHySvz9nLE9Ldmo"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "symbol": "?",
+      "amount": 6.369218,
+      "gate_score": "?/9",
+      "time": 1791587317,
+      "signature": "3N5uSZjPsHC2c6Y6zSbtYjhdrEqhR6iUtxnDp1WoytXhz6qqdJu6TqS4DZ3KRrWshuioV3TQWwHySvz9nLE9Ldmo"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "symbol": "?",
+      "amount": 0.000764152,
+      "gate_score": "?/9",
+      "time": 1791587317,
+      "signature": "3N5uSZjPsHC2c6Y6zSbtYjhdrEqhR6iUtxnDp1WoytXhz6qqdJu6TqS4DZ3KRrWshuioV3TQWwHySvz9nLE9Ldmo"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HoNA5xEiNAdC1pxP1u3KtQ93yDyXmZFhaS6tYycmpump",
+      "symbol": "?",
+      "amount": 85803.646295,
+      "gate_score": "?/9",
+      "time": 1791587316,
+      "signature": "4joHb3MNZKvFfDCGvu5dhRbuCcdNayhT3bSeUFgUmfT35cTwjzVWuWDkCvL4ojbqsa9ycDDYbscRmFtmomYSTwe7"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EMis1EwP7MjArCqV5mnhuKP5sjFw9e2MNv4tzowEPHH5",
+      "symbol": "?",
+      "amount": 673538.585981,
+      "gate_score": "?/9",
+      "time": 1791587316,
+      "signature": "4joHb3MNZKvFfDCGvu5dhRbuCcdNayhT3bSeUFgUmfT35cTwjzVWuWDkCvL4ojbqsa9ycDDYbscRmFtmomYSTwe7"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "HoNA5xEiNAdC1pxP1u3KtQ93yDyXmZFhaS6tYycmpump",
+      "symbol": "?",
+      "amount": 85803.764438,
+      "gate_score": "?/9",
+      "time": 1791587315,
+      "signature": "4FUyr6GtwT7FLskVU36sb84c94nx6a56G5bkk6JHzbB5i6XaqUgJTo7yvSrPZ2qyeRt8Rm669YpCKnthMv4gCRZS"
+    },
+    {
+      "wallet": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "wallet_short": "D5Yq\u2026N9cM",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EMis1EwP7MjArCqV5mnhuKP5sjFw9e2MNv4tzowEPHH5",
+      "symbol": "?",
+      "amount": 673540.634336,
+      "gate_score": "?/9",
+      "time": 1791587315,
+      "signature": "4FUyr6GtwT7FLskVU36sb84c94nx6a56G5bkk6JHzbB5i6XaqUgJTo7yvSrPZ2qyeRt8Rm669YpCKnthMv4gCRZS"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 49.999948,
+      "gate_score": "?/9",
+      "time": 1791587315,
+      "signature": "3Qozp9TWBdn69C43uHEMny7YyRs96rSQe9KBZjrnBCErM5JWB6hhC2qLdVzTcfBszGAGZgGPiroNK4WNbx1ixP17"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump",
+      "symbol": "?",
+      "amount": 8953.435729,
+      "gate_score": "?/9",
+      "time": 1791587315,
+      "signature": "3Qozp9TWBdn69C43uHEMny7YyRs96rSQe9KBZjrnBCErM5JWB6hhC2qLdVzTcfBszGAGZgGPiroNK4WNbx1ixP17"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 93.6,
+      "gate_score": "?/9",
+      "time": 1791587314,
+      "signature": "5JzFN5DKatsWJszBFreUrrq5iS6BJTJqPsg6B9UsVnCefWYo5otWvR3an2S8aB77w6uANnkfrZdiNLTQWMVco6JY"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+      "symbol": "?",
+      "amount": 1648.833617,
+      "gate_score": "?/9",
+      "time": 1791587314,
+      "signature": "5JzFN5DKatsWJszBFreUrrq5iS6BJTJqPsg6B9UsVnCefWYo5otWvR3an2S8aB77w6uANnkfrZdiNLTQWMVco6JY"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "5A4aH4BMaZ66sw8qRA1hyB4TwxpvFRvv8eHwMFXsggan",
+      "symbol": "?",
+      "amount": 54107.949602,
+      "gate_score": "?/9",
+      "time": 1791587306,
+      "signature": "6H3a5dPfx2odpEt59ezAimfGuU2BmMefB8XKJZG4yuAdrbjKmga4hGgKycLz3zjkWTxNV41DfVSJcJkFw1DkcEw"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "?",
+      "amount": 2.9745,
+      "gate_score": "?/9",
+      "time": 1791587306,
+      "signature": "6H3a5dPfx2odpEt59ezAimfGuU2BmMefB8XKJZG4yuAdrbjKmga4hGgKycLz3zjkWTxNV41DfVSJcJkFw1DkcEw"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 2.972218,
+      "gate_score": "?/9",
+      "time": 1791587306,
+      "signature": "6H3a5dPfx2odpEt59ezAimfGuU2BmMefB8XKJZG4yuAdrbjKmga4hGgKycLz3zjkWTxNV41DfVSJcJkFw1DkcEw"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 19.868245,
+      "gate_score": "?/9",
+      "time": 1791587305,
+      "signature": "2k8f4n3ayuN7ZpoyRMR36KEBgeDjFmTMG1z8irLjszCYVYiYmXRUFyr7y1gnSNLVaar42FWx9EePfVTPJZMREDkE"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "symbol": "?",
+      "amount": 0.00182635,
+      "gate_score": "?/9",
+      "time": 1791587304,
+      "signature": "4KYZm4msATVjf9hQK6XfTU5GcWqTwRDEe4LhMDYs3wJSyofwNDPMk1sUci7XyU6vDW3jdWsqR8QwcZK83PZVVss8"
+    },
+    {
+      "wallet": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "wallet_short": "GGzt\u2026jgSJ",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "?",
+      "amount": 4.538989,
+      "gate_score": "?/9",
+      "time": 1791587304,
+      "signature": "4KYZm4msATVjf9hQK6XfTU5GcWqTwRDEe4LhMDYs3wJSyofwNDPMk1sUci7XyU6vDW3jdWsqR8QwcZK83PZVVss8"
+    },
+    {
+      "wallet": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "wallet_short": "2MFo\u2026Cj3h",
+      "labels": [
+        "FRESH"
+      ],
+      "mint": "ARENA551cbiMFSFzXv1V1RDxufZEw9Q2Kbd5uD7FrFeR",
+      "symbol": "?",
+      "amount": 309.344976,
+      "gate_score": "?/9",
+      "time": 1791587302,
+      "signature": "5p46qHA28gbquxQFgWtPU3ArLf6NnbJagfzhPoTv7uPKW6DCxTDUH4E6pvAw5xX5AqkVThNnh6Ck2bnk1ntgy7uQ"
+    }
+  ]
+}

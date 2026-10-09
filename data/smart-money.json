@@ -1,0 +1,159 @@
+{
+  "updated_at": 1791555133,
+  "wallets": [
+    {
+      "address": "9UnZnrFJ1CXCmCorgGU9NvYkX5np1h4v4ympx3Nrdw3v",
+      "score": 70.5,
+      "wins": 4,
+      "total": 4,
+      "win_rate": 1.0,
+      "labels": [
+        "SMART MONEY",
+        "FRESH"
+      ],
+      "last_seen": 1791554970,
+      "tokens": [
+        "4q76x7gpkxVL",
+        "kS5HANa73V6R",
+        "gUAYNrurYpvf",
+        "aDuZRqzbTkRc"
+      ]
+    },
+    {
+      "address": "D5YqVMoSxnqeZAKAUUE1Dm3bmjtdxQ5DCF356ozqN9cM",
+      "score": 69.0,
+      "wins": 3,
+      "total": 3,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791554116,
+      "tokens": [
+        "DPVuQextuEC6",
+        "2qEHjDLDLbuB",
+        "F1jfDMySyGPS"
+      ]
+    },
+    {
+      "address": "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV",
+      "score": 67.2,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791555068,
+      "tokens": [
+        "5tCju6YNxHq5",
+        "2qEHjDLDLbuB"
+      ]
+    },
+    {
+      "address": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+      "score": 67.2,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791555068,
+      "tokens": [
+        "5tCju6YNxHq5",
+        "2qEHjDLDLbuB"
+      ]
+    },
+    {
+      "address": "58iikVhaJaJVzeCM6ZNkqHMv7PTLvrZYkhiMDrL9WHg3",
+      "score": 67.2,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791554236,
+      "tokens": [
+        "2qEHjDLDLbuB",
+        "F1jfDMySyGPS"
+      ]
+    },
+    {
+      "address": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+      "score": 67.2,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791554361,
+      "tokens": [
+        "2qEHjDLDLbuB",
+        "AShaUhq7Z3sn"
+      ]
+    },
+    {
+      "address": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+      "score": 67.1,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791553681,
+      "tokens": [
+        "2qEHjDLDLbuB",
+        "AShaUhq7Z3sn"
+      ]
+    },
+    {
+      "address": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+      "score": 67.1,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791552913,
+      "tokens": [
+        "Hvpdr6Y4DNwV",
+        "AShaUhq7Z3sn"
+      ]
+    },
+    {
+      "address": "6MVboLQD6gVUokvum5SqFWEWtFQX65ZEdEfEkjWyKdgj",
+      "score": 67.1,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791548650,
+      "tokens": [
+        "F1jfDMySyGPS",
+        "8bbf8UT1wVzC"
+      ]
+    },
+    {
+      "address": "4FpuSLX6TLffEk9U9jQ9pwbwd4Aw2NCRBFZYQdf4X4Uk",
+      "score": 67.1,
+      "wins": 2,
+      "total": 2,
+      "win_rate": 1.0,
+      "labels": [
+        "FRESH"
+      ],
+      "last_seen": 1791544268,
+      "tokens": [
+        "AeyJDM415ccE",
+        "8bbf8UT1wVzC"
+      ]
+    }
+  ]
+}
